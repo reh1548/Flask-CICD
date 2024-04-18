@@ -42,4 +42,3 @@ The project consists of the following components:
 - Jenkins
 - Flask
 - pytest
-
